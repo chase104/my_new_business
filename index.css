@@ -19,8 +19,18 @@ body{
     text-align-last: justify;
     background-color: coral;
     padding: 10px;
+    margin-bottom: 20px;
 }
 
 nav .btn {
     display: inline-block;
+}
+
+.profile-pic {
+    width: 150px;
+}
+
+section p {
+    display: inline-block;
+    width: calc(100% - 170px);
 }
