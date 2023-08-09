@@ -1,3 +1,25 @@
-h1{
-    color: red
+*{
+    box-sizing: border-box;
+}
+
+#site-title{
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+body{
+    background-color: antiquewhite;
+    padding: 30px;
+    background-color: antiquewhite;
+    padding: 30px;
+    min-height: calc(100vh - 16px);
+    /* take away the margin */
+    /* calculate the height minus the margin */
+}
+
+#site-navbar{
+    text-align-last: justify;
+}
+
+nav .btn {
+    display: inline-block;
 }
