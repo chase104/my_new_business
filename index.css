@@ -30,7 +30,7 @@ nav .btn {
     width: 150px;
 }
 
-section p {
+.about-me-paragraph {
     display: inline-block;
     width: calc(100% - 170px);
 }
